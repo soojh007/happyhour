@@ -1,0 +1,273 @@
+SG/News,#genre#
+CNA,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494896.ts
+Channel 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494891.ts
+Channel 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494892.ts
+Channel U,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494893.ts
+BBC News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts
+CNN,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts
+SKY News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts
+AL JAZEERA,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts
+CNBC,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts
+FRANCE24,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts
+BLOOMBERG,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts
+
+
+MY/Sports,#genre#
+Astro PL 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts
+Astro PL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts
+Astro PL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444695.ts
+Astro Grandstand,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444694.ts
+Astro Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts
+Astro Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444693.ts
+EPL 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts
+EPL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts
+BEIN EL1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts
+BEIN EL1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225641.ts
+
+STARSports,#genre#
+STARSp1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441104.ts
+STARSp1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441107.ts
+STARSp2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441102.ts
+STARSp2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441103.ts
+Sports18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441115.ts
+TEN1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441094.ts
+TEN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441091.ts
+TEN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441092.ts
+TEN3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441089.ts
+TEN3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441090.ts
+SELECT1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441098.ts
+SELECT1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441099.ts
+SELECT2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441096.ts
+SELECT2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441097.ts
+
+
+
+NOWSports,#genre#
+Sports Prime,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791025.ts
+Sports 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791015.ts
+Sports 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791014.ts
+Sports 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791013.ts
+Sports 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791012.ts
+Sports 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791011.ts
+Sports 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791010.ts
+Sports 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791009.ts
+Premier 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791022.ts
+Premier 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791021.ts
+
+SKY SPORT,#genre#
+News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290317.ts
+News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290209.ts
+News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290222.ts
+News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/588069.ts
+
+Main Event,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290315.ts
+Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494227.ts
+Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494225.ts
+SPORT+,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290305.ts
+
+News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494230.ts
+Main Event,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290294.ts
+Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494226.ts
+Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494224.ts
+
+
+DAZN1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715959.ts
+DAZN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715958.ts
+DAZN1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715957.ts
+DAZN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715956.ts
+
+UK Sports,#genre#
+MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290298.ts
+MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290224.ts
+MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/588055.ts
+MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1252323.ts
+TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494205.ts
+TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494204.ts
+TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494203.ts
+TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494202.ts
+
+TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604006.ts
+TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604004.ts
+TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604002.ts
+TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604000.ts
+TNT-5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290362.ts
+TNT-6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290361.ts
+TNT-7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290360.ts
+TNT-8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290359.ts
+TNT-9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290358.ts
+TNT-10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290357.ts
+
+
+Eurosport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290304.ts
+Eurosport 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290303.ts
+
+BBCITV,#genre#
+BBC1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162096.ts
+BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162098.ts
+ITV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162104.ts
+ITV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162106.ts
+BBC Earth,http://jill33465.cdngold.me/live/4906108de48a/f067066959/414042.ts
+Animal Planet,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162376.ts
+SKY Docuementaries,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162382.ts
+Crime and Investigation,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162377.ts
+Travel Channel,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162395.ts
+Discovery History,http://jill33465.cdngold.me/live/4906108de48a/f067066959/262725.ts
+DiscoveryScience,http://jill33465.cdngold.me/live/4906108de48a/f067066959/262726.ts
+Food Network,http://jill33465.cdngold.me/live/4906108de48a/f067066959/262722.ts
+TLC,http://jill33465.cdngold.me/live/4906108de48a/f067066959/262717.ts
+Nat Geo,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162380.ts
+Nat Geo Wild,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162381.ts
+
+BBC1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162120.ts
+BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162121.ts
+ITV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162105.ts
+ITV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162125.ts
+BBC1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717682.ts
+BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717681.ts
+ITV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717680.ts
+ITV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717679.ts
+
+
+
+AUS Sports,#genre#
+10 BOLD,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441337.ts
+10 PEACH,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441389.ts
+FOX Sports 501,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441307.ts
+FOX Sports 502,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441306.ts
+FOX Sports 503,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441305.ts
+FOX Sports 504,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441304.ts
+FOX Sports 505,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441303.ts
+FOX Sports 506,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441302.ts
+FOX Sports 507,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441301.ts
+
+FOX Sports News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441308.ts
+AU BEIN 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441313.ts
+AU BEIN 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441312.ts
+AU BEIN 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441311.ts
+AU ESPN 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441310.ts
+AU ESPN 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441309.ts
+
+AUS OPTUS,#genre#
+OPTUS1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625250.ts
+OPTUS2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625249.ts
+OPTUS3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625248.ts
+OPTUS4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625247.ts
+OPTUS5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625246.ts
+OPTUS6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625245.ts
+OPTUS7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625244.ts
+OPTUS8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625243.ts
+OPTUS9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625242.ts
+OPTUS10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625241.ts
+OPTUS11,http://jill33465.cdngold.me/live/4906108de48a/f067066959/625240.ts
+
+US Sports,#genre#
+GOL TV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/325047.ts
+BEIN Sports 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/325025.ts
+Peacock PL,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605704.ts
+FOX Soccer+,http://jill33465.cdngold.me/live/4906108de48a/f067066959/325018.ts
+
+MLS,#genre#
+MLS Live 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605394.ts
+MLS Live 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605393.ts
+MLS Live 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605392.ts
+MLS Live 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605391.ts
+MLS Live 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605390.ts
+MLS Live 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605389.ts
+MLS Live 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605388.ts
+MLS Live 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605387.ts
+MLS Live 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605386.ts
+MLS Live 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605385.ts
+MLS Live 11,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605384.ts
+MLS Live 12,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605383.ts
+MLS Live 13,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605382.ts
+MLS Live 14,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605381.ts
+MLS Live 15,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605380.ts
+MLS Live 16,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605379.ts
+MLS Live 17,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605378.ts
+MLS Live 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605377.ts
+MLS Live 19,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605376.ts
+MLS Live 20,http://jill33465.cdngold.me/live/4906108de48a/f067066959/605375.ts
+
+
+Japan Sports,#genre#
+JSports 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/904911.ts
+JSports 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/904912.ts
+JSports 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/904913.ts
+JSports 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/904914.ts
+
+
+BEIN AR,#genre# 
+AFC,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1201131.ts
+
+Sweden Sports,#genre#
+TV4 Football, http://jill33465.cdngold.me/live/4906108de48a/f067066959/302283.ts
+TV4 Live1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302280.ts
+TV4 Live2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302279.ts
+TV4 Live3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302278.ts
+TV4 Live4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302277.ts
+TV4 Live5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/185410.ts
+V Sport Premium,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302267.ts
+V Sport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302268.ts
+V Sport Extra,http://jill33465.cdngold.me/live/4906108de48a/f067066959/302269.ts
+
+
+
+Norway Sports,#genre#
+LA Liga,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003084.ts
+Premium 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003085.ts
+Premium 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003086.ts
+Sport 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003087.ts
+Sport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003088.ts
+PPV1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942843.ts
+PPV2, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942842.ts
+PPV3, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942841.ts
+PPV4, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942840.ts
+PPV5, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942839.ts
+PPV6, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942838.ts
+PPV7, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942837.ts
+PPV8, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942836.ts
+PPV9, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942835.ts
+PPV10, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942834.ts
+PPV11, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942833.ts
+PPV12, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942832.ts
+PPV13, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942831.ts
+PPV14, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942830.ts
+PPV15, http://jill33465.cdngold.me/live/4906108de48a/f067066959/942829.ts
+
+
+France Sports,#genre#
+BEIN SP 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/107005.ts
+BEIN SP 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/107006.ts
+BEIN SP 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/107007.ts
+BEIN SP 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207216.ts
+BEIN SP 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207217.ts
+BEIN SP 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207218.ts
+BEIN SP 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207219.ts
+BEIN SP 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207220.ts
+BEIN SP 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207221.ts
+BEIN SP 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/207222.ts
+BEIN SP 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220942.ts
+BEIN SP 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220941.ts
+BEIN SP 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220940.ts
+BEIN SP 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220909.ts
+BEIN SP 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220908.ts
+BEIN SP 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220907.ts
+BEIN SP 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220906.ts
+BEIN SP 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220905.ts
+BEIN SP 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220904.ts
+BEIN SP 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220903.ts
+
+
+Chinese Sports,#genre#
+ELTA1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476267.m3u8
+ELTA2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
+ELTA3,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/483407.m3u8
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV5,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5
+CCTV5+,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5p
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,http://14.112.86.85:4022/udp/239.77.0.112:5146
+广东体育,http://14.112.86.85:4022/udp/239.77.0.168:5146
+DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
