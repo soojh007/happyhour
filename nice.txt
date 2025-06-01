@@ -127,6 +127,27 @@ BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717681.ts
 ITV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717680.ts
 ITV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717679.ts
 
+DAZN UK,#genre#
+DAZN 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390063.ts
+DAZN 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390062.ts
+DAZN 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390061.ts
+DAZN 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390060.ts
+DAZN 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390059.ts
+DAZN 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390058.ts
+DAZN 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390057.ts
+DAZN 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390056.ts
+DAZN 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390055.ts
+DAZN 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390054.ts
+DAZN 11,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390053.ts
+DAZN 12,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390052.ts
+DAZN 13,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390051.ts
+DAZN 14,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390050.ts
+DAZN 15,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390049.ts
+DAZN 16,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390048.ts
+DAZN 17,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390047.ts
+DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390046.ts
+DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390045.ts
+DAZN 20,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390044.ts
 
 
 AUS Sports,#genre#
