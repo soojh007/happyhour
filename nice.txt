@@ -23,6 +23,9 @@ EPL 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts
 EPL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts
 BEIN EL1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts
 BEIN EL1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225641.ts
+HUB SP1, http://jill33465.cdngold.me/live/4906108de48a/f067066959/444699.ts
+HUB SP2, http://jill33465.cdngold.me/live/4906108de48a/f067066959/444698.ts
+HUB SP3, http://jill33465.cdngold.me/live/4906108de48a/f067066959/444697.ts
 
 STARSports,#genre#
 STARSp1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441104.ts
