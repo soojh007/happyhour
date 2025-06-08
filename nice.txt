@@ -159,6 +159,20 @@ UK DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390046.ts
 UK DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390045.ts
 UK DAZN 20,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390044.ts
 
+NZ Sky Sports,#genre#
+Sky Sports 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/575140.ts
+Sky Sports 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/575139.ts
+Sky Sports 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/575138.ts
+Sky Sports 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/575137.ts
+
+
+UEFA TV,#genre#
+TV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025280.ts
+TV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025279.ts
+TV3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025278.ts
+TV4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025277.ts
+TV5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025276.ts
+
 
 AUS Sports,#genre#
 10 BOLD,http://jill33465.cdngold.me/live/4906108de48a/f067066959/441337.ts
