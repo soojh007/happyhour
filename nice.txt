@@ -16,7 +16,7 @@ MY/Sports,#genre#
 Astro PL 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts
 Astro PL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts
 Astro PL 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444695.ts
-Astro Grandstand,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444694.ts
+Astro Grandstand,https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 Astro Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts
 Astro Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/444693.ts
 EPL 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts
