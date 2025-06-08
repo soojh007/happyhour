@@ -130,9 +130,9 @@ BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717681.ts
 ITV1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717680.ts
 ITV2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/717679.ts
 
-CA DAZN, #genre#
+CA DAZN,#genre#
 CA DAZN 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340422.ts
-CA DAZN 21,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340421.ts
+CA DAZN 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340421.ts
 CA DAZN 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340420.ts
 CA DAZN 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340419.ts
 
