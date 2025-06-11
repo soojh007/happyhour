@@ -104,6 +104,11 @@ TNT-10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290357.ts
 Eurosport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290304.ts
 Eurosport 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290303.ts
 
+Premier sport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/386052.ts
+Premier sport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/386053.ts
+
+
+
 BBCITV,#genre#
 BBC1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162096.ts
 BBC2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162098.ts
