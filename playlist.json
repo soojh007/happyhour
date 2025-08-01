@@ -1,111 +1,97 @@
 {
-  "playlists": [
+  "categories": [
     {
-      "name": "SG/News",
-      "genre": "#genre#",
+      "title": "SG/News|http://gsetechnology.co.uk/api/channelworld/flags/singapore.png",
       "channels": [
         {
-          "name": "CNA",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494896.ts"
+          "chid": "1",
+          "chname": "CNA",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494896.ts"
         },
         {
-          "name": "Channel 5",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494891.ts"
+          "chid": "2",
+          "chname": "Channel 5",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494891.ts"
         },
         {
-          "name": "Channel 8",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494892.ts"
+          "chid": "3",
+          "chname": "Channel 8",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494892.ts"
         },
         {
-          "name": "Channel U",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494893.ts"
+          "chid": "4",
+          "chname": "Channel U",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494893.ts"
         },
         {
-          "name": "BBC News",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts"
+          "chid": "5",
+          "chname": "BBC News",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts"
         },
         {
-          "name": "CNN",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts"
+          "chid": "6",
+          "chname": "CNN",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts"
         },
         {
-          "name": "SKY News",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts"
+          "chid": "7",
+          "chname": "SKY News",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts"
         },
         {
-          "name": "AL JAZEERA",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts"
+          "chid": "8",
+          "chname": "AL JAZEERA",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts"
         },
         {
-          "name": "CNBC",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts"
+          "chid": "9",
+          "chname": "CNBC",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts"
         },
         {
-          "name": "FRANCE24",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts"
+          "chid": "10",
+          "chname": "FRANCE24",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts"
         },
         {
-          "name": "BLOOMBERG",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts"
+          "chid": "11",
+          "chname": "BLOOMBERG",
+          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
+          "chenable": "",
+          "chnote": "",
+          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts"
         }
       ]
-    },
-    {
-      "name": "MY/Sports",
-      "genre": "#genre#",
-      "channels": [
-        {
-          "name": "Astro PL 1",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts"
-        },
-        {
-          "name": "Astro PL 2",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts"
-        },
-        {
-          "name": "Astro PL 2",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444695.ts"
-        },
-        {
-          "name": "Astro Grandstand",
-          "url": "https://zekonew.newkso.ru/zeko/premium123/mono.m3u8"
-        },
-        {
-          "name": "Astro Football",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts"
-        },
-        {
-          "name": "Astro Football",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444693.ts"
-        },
-        {
-          "name": "EPL 1",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts"
-        },
-        {
-          "name": "EPL 2",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts"
-        },
-        {
-          "name": "BEIN EL1",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts"
-        },
-        {
-          "name": "BEIN EL1",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225641.ts"
-        },
-        {
-          "name": "HUB SP1",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444699.ts"
-        },
-        {
-          "name": "HUB SP2",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444698.ts"
-        },
-        {
-          "name": "HUB SP3",
-          "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444697.ts"
-        }
-      ]
-    },
+    }
+  ]
 }
