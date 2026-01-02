@@ -53,6 +53,11 @@ Sports 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791010.ts
 Sports 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791009.ts
 Premier 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791022.ts
 Premier 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791021.ts
+Premier 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791020.ts
+Premier 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791019.ts
+Premier 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791018.ts
+Premier 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/791017.ts
+
 
 SKY SPORT,#genre#
 News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290317.ts
