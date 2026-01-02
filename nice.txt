@@ -1,8 +1,5 @@
 SG/News,#genre#
-CNA,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494896.ts
-Channel 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494891.ts
-Channel 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494892.ts
-Channel U,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494893.ts
+CNA,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1541191.ts
 BBC News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts
 CNN,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts
 SKY News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts
