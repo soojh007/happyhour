@@ -76,10 +76,6 @@ Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494226.t
 Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494224.ts
 
 
-DAZN1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715959.ts
-DAZN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715958.ts
-DAZN1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715957.ts
-DAZN2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/715956.ts
 
 UK Sports,#genre#
 MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290298.ts
@@ -146,27 +142,42 @@ CA DAZN 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340420.ts
 CA DAZN 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340419.ts
 
 
-UK DAZN,#genre#
-UK DAZN 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390063.ts
-UK DAZN 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390062.ts
-UK DAZN 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390061.ts
-UK DAZN 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390060.ts
-UK DAZN 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390059.ts
-UK DAZN 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390058.ts
-UK DAZN 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390057.ts
-UK DAZN 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390056.ts
-UK DAZN 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390055.ts
-UK DAZN 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390054.ts
-UK DAZN 11,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390053.ts
-UK DAZN 12,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390052.ts
-UK DAZN 13,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390051.ts
-UK DAZN 14,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390050.ts
-UK DAZN 15,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390049.ts
-UK DAZN 16,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390048.ts
-UK DAZN 17,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390047.ts
-UK DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390046.ts
-UK DAZN 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390045.ts
-UK DAZN 20,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1390044.ts
+UK LIVE Soccer,#genre#
+UK LIVE 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538186.ts
+UK LIVE 2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538185.ts
+UK LIVE 3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538184.ts
+UK LIVE 4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538183.ts
+UK LIVE 5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538182.ts
+UK LIVE 6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538181.ts
+UK LIVE 7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538180.ts
+UK LIVE 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538179.ts
+UK LIVE 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538178.ts
+UK LIVE 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538177.ts
+UK LIVE 11,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538176.ts
+UK LIVE 12,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538175.ts
+UK LIVE 13,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538174.ts
+UK LIVE 14,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538173.ts
+UK LIVE 15,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538172.ts
+UK LIVE 16,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538171.ts
+UK LIVE 17,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538170.ts
+UK LIVE 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538169.ts
+UK LIVE 18,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538168.ts
+UK LIVE 20,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538167.ts
+UK LIVE 21,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538166.ts
+UK LIVE 22,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538165.ts
+UK LIVE 23,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538164.ts
+UK LIVE 24,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538163.ts
+UK LIVE 24,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538162.ts
+UK LIVE 26,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538161.ts
+UK LIVE 27,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538160.ts
+UK LIVE 28,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538159.ts
+UK LIVE 29,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538158.ts
+UK LIVE 30,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538157.ts
+UK LIVE 31,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538156.ts
+UK LIVE 32,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538155.ts
+UK LIVE 33,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538154.ts
+UK LIVE 34,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538153.ts
+
 
 NZ Sky Sports,#genre#
 Sky Sports 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/575140.ts
@@ -311,17 +322,3 @@ BEIN SP 8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220905.ts
 BEIN SP 9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220904.ts
 BEIN SP 10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/220903.ts
 
-
-Chinese Sports,#genre#
-ELTA1,https://t1a.iptv200.com/live/eltasport1/index.m3u8
-ELTA2,https://t1a.iptv200.com/live/eltasport2/index.m3u8
-ELTA3,https://t1a.iptv200.com/live/eltasport3/index.m3u8
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV5,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5
-CCTV5+,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5p
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://14.112.86.85:4022/udp/239.77.0.112:5146
-广东体育,http://14.112.86.85:4022/udp/239.77.0.168:5146
-DAZN体育壹,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育贰,rtmp://f13h.mine.nu/sat/tv741
