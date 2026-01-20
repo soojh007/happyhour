@@ -3,252 +3,51 @@
     {
       "title": "SG/News|http://gsetechnology.co.uk/api/channelworld/flags/singapore.png",
       "channels": [
-        {
-          "chid": "1",
-          "chname": "CNA",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1541191.ts"
-        },
-        {
-          "chid": "2",
-          "chname": "BBC News",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts"
-        },
-        {
-          "chid": "3",
-          "chname": "CNN",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts"
-        },
-        {
-          "chid": "4",
-          "chname": "SKY News",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts"
-        },
-        {
-          "chid": "5",
-          "chname": "AL JAZEERA",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts"
-        },
-        {
-          "chid": "6",
-          "chname": "CNBC",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts"
-        },
-        {
-          "chid": "7",
-          "chname": "FRANCE24",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts"
-        },
-        {
-          "chid": "8",
-          "chname": "BLOOMBERG",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts"
-        }
+        { "chid": "1", "chname": "CNA", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1541191.ts" },
+        { "chid": "2", "chname": "BBC News", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts" },
+        { "chid": "3", "chname": "CNN", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts" },
+        { "chid": "4", "chname": "SKY News", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts" },
+        { "chid": "5", "chname": "AL JAZEERA", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts" },
+        { "chid": "6", "chname": "CNBC", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts" },
+        { "chid": "7", "chname": "FRANCE24", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts" },
+        { "chid": "8", "chname": "BLOOMBERG", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts" }
       ]
     },
     {
       "title": "MY/Sports|http://gsetechnology.co.uk/api/channelworld/flags/malaysia.png",
       "channels": [
-        {
-          "chid": "9",
-          "chname": "Astro PL 1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts"
-        },
-        {
-          "chid": "10",
-          "chname": "Astro PL 2",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts"
-        },
-        {
-          "chid": "11",
-          "chname": "Astro Grandstand",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "https://zekonew.newkso.ru/zeko/premium123/mono.m3u8"
-        },
-        {
-          "chid": "12",
-          "chname": "Astro Football",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts"
-        },
-        {
-          "chid": "13",
-          "chname": "EPL 1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts"
-        },
-        {
-          "chid": "14",
-          "chname": "EPL 2",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts"
-        },
-        {
-          "chid": "15",
-          "chname": "BEIN EL1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts"
-        },
-        {
-          "chid": "16",
-          "chname": "HUB SP1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444699.ts"
-        }
+        { "chid": "9", "chname": "Astro PL 1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts" },
+        { "chid": "10", "chname": "Astro PL 2", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts" },
+        { "chid": "11", "chname": "Astro Grandstand", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "https://zekonew.newkso.ru/zeko/premium123/mono.m3u8" },
+        { "chid": "12", "chname": "Astro Football", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts" },
+        { "chid": "13", "chname": "EPL 1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts" },
+        { "chid": "14", "chname": "EPL 2", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts" },
+        { "chid": "15", "chname": "BEIN EL1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts" },
+        { "chid": "16", "chname": "HUB SP1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444699.ts" },
+        { "chid": "17", "chname": "HUB SP2", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444698.ts" },
+        { "chid": "18", "chname": "HUB SP3", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444697.ts" }
       ]
     },
     {
-      "title": "STARSports|http://gsetechnology.co.uk/api/channelworld/flags/star.png",
+      "title": "UK Sports|http://droidvision.co.uk//api/channelworld/flags/UnitedKingdom.png",
       "channels": [
-        {
-          "chid": "17",
-          "chname": "STARSp1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441104.ts"
-        },
-        {
-          "chid": "18",
-          "chname": "STARSp2",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441102.ts"
-        },
-        {
-          "chid": "19",
-          "chname": "Sports18",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441115.ts"
-        },
-        {
-          "chid": "20",
-          "chname": "TEN1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441094.ts"
-        }
+        { "chid": "19", "chname": "MUTV", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290298.ts" },
+        { "chid": "20", "chname": "TNT-1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494205.ts" },
+        { "chid": "21", "chname": "TNT-2", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494204.ts" },
+        { "chid": "22", "chname": "Eurosport 1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290304.ts" }
       ]
     },
     {
-      "title": "NOWSports|http://gsetechnology.co.uk/api/channelworld/flags/now.png",
+      "title": "US Sports|http://droidvision.co.uk//api/channelworld/flags/united-states.jpg",
       "channels": [
-        {
-          "chid": "21",
-          "chname": "Sports Prime",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791025.ts"
-        },
-        {
-          "chid": "22",
-          "chname": "Sports 1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791015.ts"
-        }
+        { "chid": "23", "chname": "BEIN Sports 1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/325025.ts" },
+        { "chid": "24", "chname": "Peacock PL", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605704.ts" }
       ]
     },
     {
-      "title": "SKY SPORT|http://gsetechnology.co.uk/api/channelworld/flags/uk.png",
+      "title": "Vietnam TV Channels|http://droidvision.co.uk//api/channelworld/flags/vietnam.png",
       "channels": [
-        {
-          "chid": "23",
-          "chname": "Main Event",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290315.ts"
-        },
-        {
-          "chid": "24",
-          "chname": "Premier League",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494227.ts"
-        }
-      ]
-    },
-    {
-      "title": "UK LIVE Soccer|http://gsetechnology.co.uk/api/channelworld/flags/soccer.png",
-      "channels": [
-        {
-          "chid": "25",
-          "chname": "UK LIVE 1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538186.ts"
-        },
-        {
-          "chid": "26",
-          "chname": "UK LIVE 2",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538185.ts"
-        }
-      ]
-    },
-    {
-      "title": "France Sports|http://gsetechnology.co.uk/api/channelworld/flags/france.png",
-      "channels": [
-        {
-          "chid": "27",
-          "chname": "BEIN SP 1",
-          "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
-          "chenable": "",
-          "chnote": "",
-          "chlink": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/107005.ts"
-        }
+        { "chid": "25", "chname": "VTV1", "chlogo": "http://gsetechnology.co.uk/samplelogo.png", "chenable": "", "chnote": "", "chlink": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4" }
       ]
     }
   ]
