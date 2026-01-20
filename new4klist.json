@@ -1,0 +1,364 @@
+{
+  "playlist_name": "Global IPTV Playlist",
+  "categories": [
+    {
+      "genre": "SG/News",
+      "channels": [
+        { "name": "CNA", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1541191.ts" },
+        { "name": "BBC News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162142.ts" },
+        { "name": "CNN", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162147.ts" },
+        { "name": "SKY News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162155.ts" },
+        { "name": "AL JAZEERA", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162148.ts" },
+        { "name": "CNBC", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162149.ts" },
+        { "name": "FRANCE24", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162150.ts" },
+        { "name": "BLOOMBERG", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162145.ts" }
+      ]
+    },
+    {
+      "genre": "MY/Sports",
+      "channels": [
+        { "name": "Astro PL 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659305.ts" },
+        { "name": "Astro PL 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659308.ts" },
+        { "name": "Astro PL 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444695.ts" },
+        { "name": "Astro Grandstand", "url": "https://zekonew.newkso.ru/zeko/premium123/mono.m3u8" },
+        { "name": "Astro Football", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/659306.ts" },
+        { "name": "Astro Football", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444693.ts" },
+        { "name": "EPL 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661427.ts" },
+        { "name": "EPL 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/661426.ts" },
+        { "name": "BEIN EL1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225642.ts" },
+        { "name": "BEIN EL1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1225641.ts" },
+        { "name": "HUB SP1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444699.ts" },
+        { "name": "HUB SP2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444698.ts" },
+        { "name": "HUB SP3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/444697.ts" }
+      ]
+    },
+    {
+      "genre": "STARSports",
+      "channels": [
+        { "name": "STARSp1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441104.ts" },
+        { "name": "STARSp1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441107.ts" },
+        { "name": "STARSp2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441102.ts" },
+        { "name": "STARSp2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441103.ts" },
+        { "name": "Sports18", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441115.ts" },
+        { "name": "TEN1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441094.ts" },
+        { "name": "TEN2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441091.ts" },
+        { "name": "TEN2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441092.ts" },
+        { "name": "TEN3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441089.ts" },
+        { "name": "TEN3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441090.ts" },
+        { "name": "SELECT1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441098.ts" },
+        { "name": "SELECT1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441099.ts" },
+        { "name": "SELECT2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441096.ts" },
+        { "name": "SELECT2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441097.ts" }
+      ]
+    },
+    {
+      "genre": "NOWSports",
+      "channels": [
+        { "name": "Sports Prime", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791025.ts" },
+        { "name": "Sports 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791015.ts" },
+        { "name": "Sports 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791014.ts" },
+        { "name": "Sports 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791013.ts" },
+        { "name": "Sports 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791012.ts" },
+        { "name": "Sports 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791011.ts" },
+        { "name": "Sports 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791010.ts" },
+        { "name": "Sports 7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791009.ts" },
+        { "name": "Premier 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791022.ts" },
+        { "name": "Premier 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791021.ts" },
+        { "name": "Premier 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791020.ts" },
+        { "name": "Premier 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791019.ts" },
+        { "name": "Premier 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791018.ts" },
+        { "name": "Premier 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/791017.ts" }
+      ]
+    },
+    {
+      "genre": "SKY SPORT",
+      "channels": [
+        { "name": "News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290317.ts" },
+        { "name": "News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290209.ts" },
+        { "name": "News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290222.ts" },
+        { "name": "News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/588069.ts" },
+        { "name": "Main Event", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290315.ts" },
+        { "name": "Premier League", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494227.ts" },
+        { "name": "Football", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494225.ts" },
+        { "name": "SPORT+", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290305.ts" },
+        { "name": "News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494230.ts" },
+        { "name": "Main Event", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290294.ts" },
+        { "name": "Premier League", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494226.ts" },
+        { "name": "Football", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494224.ts" }
+      ]
+    },
+    {
+      "genre": "UK Sports",
+      "channels": [
+        { "name": "MUTV", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290298.ts" },
+        { "name": "MUTV", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290224.ts" },
+        { "name": "MUTV", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/588055.ts" },
+        { "name": "MUTV", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1252323.ts" },
+        { "name": "TNT-1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494205.ts" },
+        { "name": "TNT-2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494204.ts" },
+        { "name": "TNT-3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494203.ts" },
+        { "name": "TNT-4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/494202.ts" },
+        { "name": "TNT-1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/604006.ts" },
+        { "name": "TNT-2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/604004.ts" },
+        { "name": "TNT-3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/604002.ts" },
+        { "name": "TNT-4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/604000.ts" },
+        { "name": "TNT-5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290362.ts" },
+        { "name": "TNT-6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290361.ts" },
+        { "name": "TNT-7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290360.ts" },
+        { "name": "TNT-8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290359.ts" },
+        { "name": "TNT-9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290358.ts" },
+        { "name": "TNT-10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290357.ts" },
+        { "name": "Eurosport 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290304.ts" },
+        { "name": "Eurosport 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290303.ts" },
+        { "name": "PremierSports 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/386052.ts" },
+        { "name": "PremierSports 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/386053.ts" }
+      ]
+    },
+    {
+      "genre": "BBCITV",
+      "channels": [
+        { "name": "5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/717675.ts" },
+        { "name": "5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162114.ts" },
+        { "name": "BBC1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162096.ts" },
+        { "name": "BBC2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162098.ts" },
+        { "name": "ITV1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162104.ts" },
+        { "name": "ITV2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162106.ts" },
+        { "name": "BBC Earth", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/414042.ts" },
+        { "name": "Animal Planet", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162376.ts" },
+        { "name": "SKY Docuementaries", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162382.ts" },
+        { "name": "Crime and Investigation", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162377.ts" },
+        { "name": "Travel Channel", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162395.ts" },
+        { "name": "Discovery History", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/262725.ts" },
+        { "name": "DiscoveryScience", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/262726.ts" },
+        { "name": "Food Network", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/262722.ts" },
+        { "name": "TLC", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/262717.ts" },
+        { "name": "Nat Geo", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162380.ts" },
+        { "name": "Nat Geo Wild", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162381.ts" },
+        { "name": "BBC1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162120.ts" },
+        { "name": "BBC2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162121.ts" },
+        { "name": "ITV1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162105.ts" },
+        { "name": "ITV2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/162125.ts" },
+        { "name": "BBC1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/717682.ts" },
+        { "name": "BBC2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/717681.ts" },
+        { "name": "ITV1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/717680.ts" },
+        { "name": "ITV2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/717679.ts" }
+      ]
+    },
+    {
+      "genre": "CA DAZN",
+      "channels": [
+        { "name": "CA DAZN 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340422.ts" },
+        { "name": "CA DAZN 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340421.ts" },
+        { "name": "CA DAZN 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340420.ts" },
+        { "name": "CA DAZN 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1340419.ts" }
+      ]
+    },
+    {
+      "genre": "UK LIVE Soccer",
+      "channels": [
+        { "name": "UK LIVE 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538186.ts" },
+        { "name": "UK LIVE 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538185.ts" },
+        { "name": "UK LIVE 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538184.ts" },
+        { "name": "UK LIVE 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538183.ts" },
+        { "name": "UK LIVE 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538182.ts" },
+        { "name": "UK LIVE 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538181.ts" },
+        { "name": "UK LIVE 7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538180.ts" },
+        { "name": "UK LIVE 8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538179.ts" },
+        { "name": "UK LIVE 9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538178.ts" },
+        { "name": "UK LIVE 10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538177.ts" },
+        { "name": "UK LIVE 11", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538176.ts" },
+        { "name": "UK LIVE 12", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538175.ts" },
+        { "name": "UK LIVE 13", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538174.ts" },
+        { "name": "UK LIVE 14", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538173.ts" },
+        { "name": "UK LIVE 15", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538172.ts" },
+        { "name": "UK LIVE 16", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538171.ts" },
+        { "name": "UK LIVE 17", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538170.ts" },
+        { "name": "UK LIVE 18", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538169.ts" },
+        { "name": "UK LIVE 18", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538168.ts" },
+        { "name": "UK LIVE 20", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538167.ts" },
+        { "name": "UK LIVE 21", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538166.ts" },
+        { "name": "UK LIVE 22", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538165.ts" },
+        { "name": "UK LIVE 23", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538164.ts" },
+        { "name": "UK LIVE 24", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538163.ts" },
+        { "name": "UK LIVE 24", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538162.ts" },
+        { "name": "UK LIVE 26", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538161.ts" },
+        { "name": "UK LIVE 27", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538160.ts" },
+        { "name": "UK LIVE 28", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538159.ts" },
+        { "name": "UK LIVE 29", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538158.ts" },
+        { "name": "UK LIVE 30", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538157.ts" },
+        { "name": "UK LIVE 31", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538156.ts" },
+        { "name": "UK LIVE 32", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538155.ts" },
+        { "name": "UK LIVE 33", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538154.ts" },
+        { "name": "UK LIVE 34", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1538153.ts" }
+      ]
+    },
+    {
+      "genre": "NZ Sky Sports",
+      "channels": [
+        { "name": "Sky Sports 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/575140.ts" },
+        { "name": "Sky Sports 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/575139.ts" },
+        { "name": "Sky Sports 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/575138.ts" },
+        { "name": "Sky Sports 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/575137.ts" }
+      ]
+    },
+    {
+      "genre": "UEFA TV",
+      "channels": [
+        { "name": "TV1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025280.ts" },
+        { "name": "TV2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025279.ts" },
+        { "name": "TV3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025278.ts" },
+        { "name": "TV4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025277.ts" },
+        { "name": "TV5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1025276.ts" }
+      ]
+    },
+    {
+      "genre": "AUS Sports",
+      "channels": [
+        { "name": "10 BOLD", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441337.ts" },
+        { "name": "10 PEACH", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441389.ts" },
+        { "name": "FOX Sports 501", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441307.ts" },
+        { "name": "FOX Sports 502", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441306.ts" },
+        { "name": "FOX Sports 503", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441305.ts" },
+        { "name": "FOX Sports 504", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441304.ts" },
+        { "name": "FOX Sports 505", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441303.ts" },
+        { "name": "FOX Sports 506", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441302.ts" },
+        { "name": "FOX Sports 507", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441301.ts" },
+        { "name": "FOX Sports News", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441308.ts" },
+        { "name": "AU BEIN 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441313.ts" },
+        { "name": "AU BEIN 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441312.ts" },
+        { "name": "AU BEIN 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441311.ts" },
+        { "name": "AU ESPN 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441310.ts" },
+        { "name": "AU ESPN 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/441309.ts" }
+      ]
+    },
+    {
+      "genre": "AUS OPTUS",
+      "channels": [
+        { "name": "OPTUS1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625250.ts" },
+        { "name": "OPTUS2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625249.ts" },
+        { "name": "OPTUS3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625248.ts" },
+        { "name": "OPTUS4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625247.ts" },
+        { "name": "OPTUS5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625246.ts" },
+        { "name": "OPTUS6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625245.ts" },
+        { "name": "OPTUS7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625244.ts" },
+        { "name": "OPTUS8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625243.ts" },
+        { "name": "OPTUS9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625242.ts" },
+        { "name": "OPTUS10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625241.ts" },
+        { "name": "OPTUS11", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/625240.ts" }
+      ]
+    },
+    {
+      "genre": "US Sports",
+      "channels": [
+        { "name": "GOL TV", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/325047.ts" },
+        { "name": "BEIN Sports 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/325025.ts" },
+        { "name": "Peacock PL", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605704.ts" },
+        { "name": "FOX Soccer+", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/325018.ts" }
+      ]
+    },
+    {
+      "genre": "MLS",
+      "channels": [
+        { "name": "MLS Live 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605394.ts" },
+        { "name": "MLS Live 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605393.ts" },
+        { "name": "MLS Live 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605392.ts" },
+        { "name": "MLS Live 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605391.ts" },
+        { "name": "MLS Live 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605390.ts" },
+        { "name": "MLS Live 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605389.ts" },
+        { "name": "MLS Live 7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605388.ts" },
+        { "name": "MLS Live 8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605387.ts" },
+        { "name": "MLS Live 9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605386.ts" },
+        { "name": "MLS Live 10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605385.ts" },
+        { "name": "MLS Live 11", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605384.ts" },
+        { "name": "MLS Live 12", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605383.ts" },
+        { "name": "MLS Live 13", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605382.ts" },
+        { "name": "MLS Live 14", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605381.ts" },
+        { "name": "MLS Live 15", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605380.ts" },
+        { "name": "MLS Live 16", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605379.ts" },
+        { "name": "MLS Live 17", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605378.ts" },
+        { "name": "MLS Live 18", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605377.ts" },
+        { "name": "MLS Live 19", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605376.ts" },
+        { "name": "MLS Live 20", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/605375.ts" }
+      ]
+    },
+    {
+      "genre": "Japan Sports",
+      "channels": [
+        { "name": "JSports 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/904911.ts" },
+        { "name": "JSports 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/904912.ts" },
+        { "name": "JSports 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/904913.ts" },
+        { "name": "JSports 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/904914.ts" }
+      ]
+    },
+    {
+      "genre": "BEIN AR",
+      "channels": [
+        { "name": "AFC", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1201131.ts" }
+      ]
+    },
+    {
+      "genre": "Sweden Sports",
+      "channels": [
+        { "name": "TV4 Football", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302283.ts" },
+        { "name": "TV4 Live1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302280.ts" },
+        { "name": "TV4 Live2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302279.ts" },
+        { "name": "TV4 Live3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302278.ts" },
+        { "name": "TV4 Live4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302277.ts" },
+        { "name": "TV4 Live5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/185410.ts" },
+        { "name": "V Sport Premium", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302267.ts" },
+        { "name": "V Sport 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302268.ts" },
+        { "name": "V Sport Extra", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/302269.ts" }
+      ]
+    },
+    {
+      "genre": "Norway Sports",
+      "channels": [
+        { "name": "LA Liga", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003084.ts" },
+        { "name": "Premium 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003085.ts" },
+        { "name": "Premium 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003086.ts" },
+        { "name": "Sport 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003087.ts" },
+        { "name": "Sport 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/1003088.ts" },
+        { "name": "PPV1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942843.ts" },
+        { "name": "PPV2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942842.ts" },
+        { "name": "PPV3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942841.ts" },
+        { "name": "PPV4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942840.ts" },
+        { "name": "PPV5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942839.ts" },
+        { "name": "PPV6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942838.ts" },
+        { "name": "PPV7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942837.ts" },
+        { "name": "PPV8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942836.ts" },
+        { "name": "PPV9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942835.ts" },
+        { "name": "PPV10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942834.ts" },
+        { "name": "PPV11", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942833.ts" },
+        { "name": "PPV12", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942832.ts" },
+        { "name": "PPV13", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942831.ts" },
+        { "name": "PPV14", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942830.ts" },
+        { "name": "PPV15", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/942829.ts" }
+      ]
+    },
+    {
+      "genre": "France Sports",
+      "channels": [
+        { "name": "BEIN SP 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/107005.ts" },
+        { "name": "BEIN SP 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/107006.ts" },
+        { "name": "BEIN SP 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/107007.ts" },
+        { "name": "BEIN SP 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207216.ts" },
+        { "name": "BEIN SP 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207217.ts" },
+        { "name": "BEIN SP 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207218.ts" },
+        { "name": "BEIN SP 7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207219.ts" },
+        { "name": "BEIN SP 8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207220.ts" },
+        { "name": "BEIN SP 9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207221.ts" },
+        { "name": "BEIN SP 10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/207222.ts" },
+        { "name": "BEIN SP 1", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220942.ts" },
+        { "name": "BEIN SP 2", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220941.ts" },
+        { "name": "BEIN SP 3", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220940.ts" },
+        { "name": "BEIN SP 4", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220909.ts" },
+        { "name": "BEIN SP 5", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220908.ts" },
+        { "name": "BEIN SP 6", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220907.ts" },
+        { "name": "BEIN SP 7", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220906.ts" },
+        { "name": "BEIN SP 8", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220905.ts" },
+        { "name": "BEIN SP 9", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220904.ts" },
+        { "name": "BEIN SP 10", "url": "http://jill33465.cdngold.me/live/4906108de48a/f067066959/220903.ts" }
+      ]
+    }
+  ]
+}
