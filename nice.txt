@@ -66,14 +66,14 @@ News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290222.ts
 News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/588069.ts
 
 Main Event,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290315.ts
-Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494227.ts
-Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494225.ts
+Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527636.ts
+Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527634.ts
 SPORT+,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290305.ts
 
 News,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494230.ts
 Main Event,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290294.ts
-Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494226.ts
-Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494224.ts
+Premier League,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527637.ts
+Football,http://jill33465.cdngold.me/live/4906108de48a/f067066959/588070.ts
 
 
 
@@ -82,21 +82,15 @@ MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290298.ts
 MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290224.ts
 MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/588055.ts
 MUTV,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1252323.ts
-TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494205.ts
-TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494204.ts
-TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494203.ts
-TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/494202.ts
+TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527616.ts
+TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527614.ts
+TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527612.ts
+TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1527610.ts
 
-TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604006.ts
-TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604004.ts
-TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604002.ts
-TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/604000.ts
-TNT-5,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290362.ts
-TNT-6,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290361.ts
-TNT-7,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290360.ts
-TNT-8,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290359.ts
-TNT-9,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290358.ts
-TNT-10,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290357.ts
+TNT-1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290377.ts
+TNT-2,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290376.ts
+TNT-3,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290375.ts
+TNT-4,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290374.ts
 
 
 Eurosport 1,http://jill33465.cdngold.me/live/4906108de48a/f067066959/1290304.ts
